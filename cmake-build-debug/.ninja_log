@@ -1,5 +1,22 @@
 # ninja log v5
-0	307	6651718585575553	CMakeFiles/stack.dir/main.cpp.obj	8bcdd0d0b3cbf838
-309	428	6651718586773247	stack.exe	f2ff42d9ce1d1b56
 3	352	6651728414564184	CMakeFiles/stack.dir/main.cpp.obj	8bcdd0d0b3cbf838
 353	498	6651728415939425	stack.exe	f2ff42d9ce1d1b56
+3	302	6651730121678353	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+3	71	6651730268213739	CMakeFiles/stack.dir/main.cpp.obj	8bcdd0d0b3cbf838
+71	176	6651730269233906	stack.exe	cb75ea57cf4c8eef
+2	309	6651731428936370	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+310	421	6651731430031562	stack.exe	cb75ea57cf4c8eef
+4	309	6651732125898436	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+310	418	6651732126968626	stack.exe	cb75ea57cf4c8eef
+4	309	6651732221424148	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+310	428	6651732222594356	stack.exe	cb75ea57cf4c8eef
+3	307	6651732459258069	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+307	414	6651732460313257	stack.exe	cb75ea57cf4c8eef
+3	304	6651732776602718	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+305	416	6651732777712907	stack.exe	cb75ea57cf4c8eef
+2	301	6651733646021837	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+302	410	6651733647082020	stack.exe	cb75ea57cf4c8eef
+3	307	6651733975803075	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+308	420	6651733976893254	stack.exe	cb75ea57cf4c8eef
+2	296	6651734240418036	CMakeFiles/stack.dir/question2.cpp.obj	ca9fa004549ae935
+296	407	6651734241508226	stack.exe	cb75ea57cf4c8eef
